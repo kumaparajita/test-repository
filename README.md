@@ -1,4 +1,4 @@
-#My awesome REST API
+# My awesome REST API
 
 ## Installation
 
@@ -9,8 +9,8 @@ python app.py
 ```
 ## Enjoy!!!
 
-##Description
+## Description
 
-##Implementation
+## Implementation
 
 This project is implemented using FLASK , and is a REST Api for store
